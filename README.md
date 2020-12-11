@@ -17,4 +17,4 @@ https://bethanyfulcher.github.io/password-generator-bf/
 ## Screenshot:
 The following images shows the web applications appearance:
 
-![index](./images/passGenSS.png)
+![index](images/passGenSS.png)
