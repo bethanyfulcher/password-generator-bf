@@ -12,7 +12,9 @@ This website does not contain any external links.
 
 ## Web Site:
 Check out this Password Generator at:
-
+https://bethanyfulcher.github.io/password-generator-bf/
 
 ## Screenshot:
 The following images shows the web applications appearance:
+
+![index](./images/passGenSS.png)
